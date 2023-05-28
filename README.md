@@ -11,6 +11,8 @@ https://github.com/veraahmad/facebook-report-URL.git
 
 cd facebook-report-URL
 
-	chmod +x CS.py
+chmod +x CS.py
+
+./	python CS.py
 
 
