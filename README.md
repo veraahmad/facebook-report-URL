@@ -13,6 +13,8 @@ cd facebook-report-URL
 
 pip install requests
 
+pip install time
+
 chmod +x CS.py
 
 ./	python CS.py
