@@ -19,8 +19,10 @@ pip install colorama
 
 pip install os
 
+./chmod +x *
 
 
-./	python CS.py
+
+
 
 
