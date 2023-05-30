@@ -15,7 +15,11 @@ pip install requests
 
 pip install time
 
-chmod +x CS.py
+pip install colorama 
+
+pip install os
+
+
 
 ./	python CS.py
 
