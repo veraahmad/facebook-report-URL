@@ -19,7 +19,7 @@ pip install colorama
 
 pip install os
 
-./chmod +x *
+python facebook-report-URL.py
 
 
 
